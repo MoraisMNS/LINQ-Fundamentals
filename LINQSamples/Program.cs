@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using LINQSamples;
+
+SampleViewModel vm = new();
+
+
+var result = vm.GetAllQuery();
+
+vm.Display(result);
