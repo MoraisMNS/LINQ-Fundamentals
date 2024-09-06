@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
-namespace LINQSamples.DataLayer.CompositeClasses
+namespace LINQSamples
 {
-    internal class SaleProducts
+    public class SaleProducts
     {
+        public int SalesOrderID { get; set; }
+
+        public List<Products> Products { get; set; }
     }
 }

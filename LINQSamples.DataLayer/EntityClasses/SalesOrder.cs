@@ -16,7 +16,12 @@ namespace LINQSamples
         {
             StringBuilder sb = new(1024);
 
-            sb.AppendLine($)
+            sb.AppendLine($"Order ID: {SalesOrderID}");
+            sb.AppendLine($"    ProductID: {ProductID}  QTY:{OrderQty}");
+            sb.AppendLine($"    Unit Price: {UnitPrice:c}   Total:{LineTotal:c}");
+
+            return sb.ToString();
         }
+        #endregion
     }
 }

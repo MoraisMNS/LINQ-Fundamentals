@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Courses\\LINQSamples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|d:\\courses\\linqsamples\\linqsamples.datalayer\\entityclasses\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|solutionrelative:linqsamples.datalayer\\entityclasses\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|d:\\courses\\linqsamples\\linqsamples.datalayer\\entityclasses\\productsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|solutionrelative:linqsamples.datalayer\\entityclasses\\productsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|d:\\courses\\linqsamples\\linqsamples.datalayer\\entityclasses\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|solutionrelative:linqsamples.datalayer\\entityclasses\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|d:\\courses\\linqsamples\\linqsamples.datalayer\\entityclasses\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|solutionrelative:linqsamples.datalayer\\entityclasses\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D440EC28-9BF5-47C5-A0DF-AE50E6C1B1C1}|LINQSamples.Common\\LINQSamples.Common.csproj|d:\\courses\\linqsamples\\linqsamples.common\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D440EC28-9BF5-47C5-A0DF-AE50E6C1B1C1}|LINQSamples.Common\\LINQSamples.Common.csproj|solutionrelative:linqsamples.common\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|d:\\courses\\linqsamples\\linqsamples.datalayer\\compositeclasses\\productstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|solutionrelative:linqsamples.datalayer\\compositeclasses\\productstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|d:\\courses\\linqsamples\\linqsamples.datalayer\\repositoryclasses\\salesorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|solutionrelative:linqsamples.datalayer\\repositoryclasses\\salesorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|d:\\courses\\linqsamples\\linqsamples.datalayer\\compositeclasses\\saleproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|solutionrelative:linqsamples.datalayer\\compositeclasses\\saleproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|d:\\courses\\linqsamples\\linqsamples.datalayer\\repositoryclasses\\productsimplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,16 +31,16 @@
       "RelativeMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|solutionrelative:linqsamples.datalayer\\repositoryclasses\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D440EC28-9BF5-47C5-A0DF-AE50E6C1B1C1}|LINQSamples.Common\\LINQSamples.Common.csproj|d:\\courses\\linqsamples\\linqsamples.common\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D440EC28-9BF5-47C5-A0DF-AE50E6C1B1C1}|LINQSamples.Common\\LINQSamples.Common.csproj|solutionrelative:linqsamples.common\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|d:\\courses\\linqsamples\\linqsamples.datalayer\\repositoryclasses\\salesorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|solutionrelative:linqsamples.datalayer\\repositoryclasses\\salesorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|d:\\courses\\linqsamples\\linqsamples.datalayer\\linqsamples.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|solutionrelative:linqsamples.datalayer\\linqsamples.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|d:\\courses\\linqsamples\\linqsamples.datalayer\\compositeclasses\\saleproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|solutionrelative:linqsamples.datalayer\\compositeclasses\\saleproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|d:\\courses\\linqsamples\\linqsamples.datalayer\\compositeclasses\\productstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|solutionrelative:linqsamples.datalayer\\compositeclasses\\productstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1FE3F8B-2BEE-41E5-912E-689E90BBBEED}|LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj|d:\\courses\\linqsamples\\linqsamples.datalayer\\compositeclasses\\productsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,24 +86,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Products.cs",
               "DocumentMoniker": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\EntityClasses\\Products.cs",
               "RelativeDocumentMoniker": "LINQSamples.DataLayer\\EntityClasses\\Products.cs",
               "ToolTip": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\EntityClasses\\Products.cs",
               "RelativeToolTip": "LINQSamples.DataLayer\\EntityClasses\\Products.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAiwBcAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T06:01:02.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "SaleProducts.cs",
+              "DocumentMoniker": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\CompositeClasses\\SaleProducts.cs",
+              "RelativeDocumentMoniker": "LINQSamples.DataLayer\\CompositeClasses\\SaleProducts.cs",
+              "ToolTip": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\CompositeClasses\\SaleProducts.cs",
+              "RelativeToolTip": "LINQSamples.DataLayer\\CompositeClasses\\SaleProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:40:24.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductStats.cs",
+              "DocumentMoniker": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\CompositeClasses\\ProductStats.cs",
+              "RelativeDocumentMoniker": "LINQSamples.DataLayer\\CompositeClasses\\ProductStats.cs",
+              "ToolTip": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\CompositeClasses\\ProductStats.cs",
+              "RelativeToolTip": "LINQSamples.DataLayer\\CompositeClasses\\ProductStats.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:40:01.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ProductSimple.cs",
               "DocumentMoniker": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\EntityClasses\\ProductSimple.cs",
               "RelativeDocumentMoniker": "LINQSamples.DataLayer\\EntityClasses\\ProductSimple.cs",
@@ -122,27 +148,27 @@
               "RelativeDocumentMoniker": "LINQSamples.DataLayer\\EntityClasses\\SalesOrder.cs",
               "ToolTip": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\EntityClasses\\SalesOrder.cs",
               "RelativeToolTip": "LINQSamples.DataLayer\\EntityClasses\\SalesOrder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T06:01:39.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "D:\\Courses\\LINQSamples\\LINQSamples.Common\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "LINQSamples.Common\\ViewModelBase.cs",
-              "ToolTip": "D:\\Courses\\LINQSamples\\LINQSamples.Common\\ViewModelBase.cs",
-              "RelativeToolTip": "LINQSamples.Common\\ViewModelBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\RepositoryClasses\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "LINQSamples.DataLayer\\RepositoryClasses\\ProductRepository.cs",
+              "ToolTip": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\RepositoryClasses\\ProductRepository.cs",
+              "RelativeToolTip": "LINQSamples.DataLayer\\RepositoryClasses\\ProductRepository.cs",
+              "ViewState": "AQIAABgBAAAAAAAAAAAQwE0BAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:37:32.116Z",
+              "WhenOpened": "2024-09-06T06:02:24.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "SalesOrderRepository.cs",
               "DocumentMoniker": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\RepositoryClasses\\SalesOrderRepository.cs",
               "RelativeDocumentMoniker": "LINQSamples.DataLayer\\RepositoryClasses\\SalesOrderRepository.cs",
@@ -150,8 +176,7 @@
               "RelativeToolTip": "LINQSamples.DataLayer\\RepositoryClasses\\SalesOrderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T06:03:06.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T06:03:06.647Z"
             },
             {
               "$type": "Document",
@@ -168,55 +193,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\RepositoryClasses\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "LINQSamples.DataLayer\\RepositoryClasses\\ProductRepository.cs",
-              "ToolTip": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\RepositoryClasses\\ProductRepository.cs",
-              "RelativeToolTip": "LINQSamples.DataLayer\\RepositoryClasses\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\Courses\\LINQSamples\\LINQSamples.Common\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "LINQSamples.Common\\ViewModelBase.cs",
+              "ToolTip": "D:\\Courses\\LINQSamples\\LINQSamples.Common\\ViewModelBase.cs",
+              "RelativeToolTip": "LINQSamples.Common\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T06:02:24.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T05:37:32.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LINQSamples.DataLayer",
+              "DocumentIndex": 9,
+              "Title": "LINQSamples.DataLayer.csproj",
               "DocumentMoniker": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj",
               "RelativeDocumentMoniker": "LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj",
               "ToolTip": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj",
               "RelativeToolTip": "LINQSamples.DataLayer\\LINQSamples.DataLayer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-06T06:01:52.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SaleProducts.cs",
-              "DocumentMoniker": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\CompositeClasses\\SaleProducts.cs",
-              "RelativeDocumentMoniker": "LINQSamples.DataLayer\\CompositeClasses\\SaleProducts.cs",
-              "ToolTip": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\CompositeClasses\\SaleProducts.cs",
-              "RelativeToolTip": "LINQSamples.DataLayer\\CompositeClasses\\SaleProducts.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:40:24.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductStats.cs",
-              "DocumentMoniker": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\CompositeClasses\\ProductStats.cs",
-              "RelativeDocumentMoniker": "LINQSamples.DataLayer\\CompositeClasses\\ProductStats.cs",
-              "ToolTip": "D:\\Courses\\LINQSamples\\LINQSamples.DataLayer\\CompositeClasses\\ProductStats.cs",
-              "RelativeToolTip": "LINQSamples.DataLayer\\CompositeClasses\\ProductStats.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:40:01.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T06:01:52.63Z"
             },
             {
               "$type": "Document",
@@ -228,8 +225,7 @@
               "RelativeToolTip": "LINQSamples.DataLayer\\CompositeClasses\\ProductSales.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:39:20.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T05:39:20.547Z"
             },
             {
               "$type": "Document",
@@ -241,8 +237,7 @@
               "RelativeToolTip": "LINQSamples.DataLayer\\CompositeClasses\\ProductOrder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:39:02.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T05:39:02.669Z"
             },
             {
               "$type": "Document",
@@ -254,21 +249,19 @@
               "RelativeToolTip": "LINQSamples.Common\\HelperClasses\\ProductHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:36:19.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T05:36:19.051Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "LINQSamples.Common",
+              "Title": "LINQSamples.Common.csproj",
               "DocumentMoniker": "D:\\Courses\\LINQSamples\\LINQSamples.Common\\LINQSamples.Common.csproj",
               "RelativeDocumentMoniker": "LINQSamples.Common\\LINQSamples.Common.csproj",
               "ToolTip": "D:\\Courses\\LINQSamples\\LINQSamples.Common\\LINQSamples.Common.csproj",
               "RelativeToolTip": "LINQSamples.Common\\LINQSamples.Common.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-06T05:35:11.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T05:35:11.089Z"
             },
             {
               "$type": "Document",
@@ -280,8 +273,7 @@
               "RelativeToolTip": "LINQSamples.Common\\HelperClasses\\LinqHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:35:52.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T05:35:52.745Z"
             },
             {
               "$type": "Document",
@@ -293,8 +285,7 @@
               "RelativeToolTip": "LINQSamples.Common\\ComparerClasses\\ProductIdComparer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:34:43.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T05:34:43.798Z"
             },
             {
               "$type": "Document",
@@ -306,8 +297,7 @@
               "RelativeToolTip": "LINQSamples.Common\\ComparerClasses\\ProductComparer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:34:08.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T05:34:08.475Z"
             },
             {
               "$type": "Document",
@@ -319,8 +309,7 @@
               "RelativeToolTip": "LINQSamples\\SampleViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:30:06.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T05:30:06.885Z"
             },
             {
               "$type": "Document",
@@ -332,8 +321,7 @@
               "RelativeToolTip": "LINQSamples\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:23:34.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T05:23:34.445Z"
             }
           ]
         }

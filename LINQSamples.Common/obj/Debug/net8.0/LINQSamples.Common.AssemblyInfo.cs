@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQSamples.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ba1ea51878bc0d344cf3c7ba27a70309abd75f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQSamples.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQSamples.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
